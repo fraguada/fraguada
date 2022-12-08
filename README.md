@@ -1,7 +1,7 @@
 ![](https://raw.githubusercontent.com/fraguada/fraguada/main/3%20Quadrillion%20km%20away.png)
 
 ### Hi there 👋
-My name is Luis Fraguada. I help people develop awesome stuff with Rhino3d's APIs.
+My name is Luis Fraguada, I'm a creative developer. https://linktr.ee/fraguada
 <!--
 **fraguada/fraguada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
